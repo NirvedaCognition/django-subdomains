@@ -1,7 +1,7 @@
-django-subdomains
+django-subdomains (django 2.0 compatible)
 =================
 
-This fork is compatible with django 2.0.
+**This fork is compatible with django 2.0.**
 
 Subdomain helpers for the Django framework, including subdomain-based URL
 routing and reversing.
